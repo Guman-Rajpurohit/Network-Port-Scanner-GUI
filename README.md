@@ -22,8 +22,8 @@ No third-party packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/techtrainer20/nmap_portscan_gui.git
-cd nmap_portscan_gui
+git clone https://github.com/Guman-Rajpurohit/Network-Port-Scanner-GUI.git
+cd Network-Port-Scanner-GUI
 ```
 
 ## Usage
