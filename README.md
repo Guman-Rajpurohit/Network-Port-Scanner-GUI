@@ -70,7 +70,7 @@ Network-Port-Scanner-GUI/
 
 ## Disclaimer
 
-Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction.
+Use this tool only on hosts and networks you own or have explicit permission to scan. Unauthorized port scanning may be illegal in your jurisdiction
 
 ## License
 
